@@ -1,4 +1,4 @@
-# dicebot-oiiabot
+# discord-oiiabot
 ## 1. oiiabotとは
 → discordのボイスチャンネル(VC)に接続し、ユーザの声に対して音声でリアクションをするBot
 
@@ -98,3 +98,4 @@ $[1]$ 黒神([@kokushing](https://x.com/kokushing))様：["特定のワードに
 - 260215_0643　初着手
 - 260215_1838　コード完成
 - 260217_0123　Readme完成
+- 260217_0135　誤字修正
